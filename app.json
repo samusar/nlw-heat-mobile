@@ -1,14 +1,15 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "mobilenlwheat",
+    "slug": "mobilenlwheat",
     "version": "1.0.0",
+    "scheme": "mobilenlwheat",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121214"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
